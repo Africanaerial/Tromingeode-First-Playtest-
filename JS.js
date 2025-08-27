@@ -5547,7 +5547,7 @@ myButton.style.top = '100px';
 myButton.style.left = '60px';  
 myButton.style.zIndex = '1';
     document.body.appendChild(myButton);
-var globalWorlds = document.createElement(button);
+var globalWorlds = document.createElement('button');
 globalWorlds.onclick = () => {
 
 }
